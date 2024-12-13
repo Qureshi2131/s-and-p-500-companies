@@ -37,3 +37,4 @@ jobs:
     - name: Test with pytest
       run: |
         pytest
+#[![Python application](https://github.com/Qureshi2131/s-and-p-500-companies/actions/workflows/python-app.yml/badge.svg)](https://github.com/Qureshi2131/s-and-p-500-companies/actions/workflows/python-app.yml)
